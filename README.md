@@ -142,7 +142,8 @@ ret
 ```
 
 ## Output for arithmetic operations:
-<img width="1254" height="842" alt="image" src="https://github.com/user-attachments/assets/62ed6a55-9d8e-4aa4-91f8-6b29a02c52fa" />
+<img width="1218" height="653" alt="image" src="https://github.com/user-attachments/assets/e0c474dc-c468-4f56-8012-87080ce428df" />
+
 
 
 
