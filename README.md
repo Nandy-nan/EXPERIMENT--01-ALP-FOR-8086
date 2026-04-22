@@ -142,12 +142,16 @@ ret
 ```
 
 ## Output for arithmetic operations:
+<img width="1254" height="842" alt="image" src="https://github.com/user-attachments/assets/62ed6a55-9d8e-4aa4-91f8-6b29a02c52fa" />
 
-<img width="1285" height="742" alt="image" src="https://github.com/user-attachments/assets/936dad16-996f-44cb-bb53-ce7276c87b88" />
+
+
 
 ## Output for logical operations:
+<img width="1254" height="842" alt="image" src="https://github.com/user-attachments/assets/a78942f1-28e2-41a4-88fb-98a2f4efec9a" />
 
-<img width="1301" height="774" alt="image" src="https://github.com/user-attachments/assets/f5bb9dda-d3ed-4131-998c-0a1470dec73f" />
+
+
 
 ## Result:
 Thus the program for ALP on fundamental arithmetic and logical operations using emu8086 was executed successfully.
