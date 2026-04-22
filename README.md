@@ -110,7 +110,7 @@ mov [2006h],ax
  
 RET
 ```
-program for logical operations:
+##  program for logical operations:
 
 ```
 ##AND operator
@@ -141,15 +141,15 @@ MOV [2006H],AX;
 ret
 ```
 
-##Output for arithmetic operations:
+## Output for arithmetic operations:
 
 <img width="1285" height="742" alt="image" src="https://github.com/user-attachments/assets/936dad16-996f-44cb-bb53-ce7276c87b88" />
 
-##Output for logical operations:
+## Output for logical operations:
 
 <img width="1301" height="774" alt="image" src="https://github.com/user-attachments/assets/f5bb9dda-d3ed-4131-998c-0a1470dec73f" />
 
-##Result:
+## Result:
 Thus the program for ALP on fundamental arithmetic and logical operations using emu8086 was executed successfully.
 
 
